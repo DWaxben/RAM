@@ -3,193 +3,193 @@
     "id": "1",
     "name": "Radio Yabiladi",
     "propellant": "http://37.187.146.76:8000/stream",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/a.png?token=AiH6SjR0Sc1vco9blmT07yaSUg8FtUvBks5ck68fwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/a.png"
   },
   {
     "id": "2",
     "name": "Radio Coran",
     "propellant": "http://stream4.coran.tk:8005/stream/1/",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/radiocoran.png?token=AiH6SjFHmcPEfu1SWfpnMD2lerI_u1htks5ck69hwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/radiocoran.png"
   },
   {
     "id": "3",
     "name": "Idaa Al watania",
     "propellant": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-video=100000-audio_AACL_qad_130400_110=130400.m3u8",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/idaaalwatania.png?token=AiH6Ss_Hl8ySgu5WgoVym9wnDeS9BGYcks5ck6_ZwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/idaaalwatania.png?token=AiH6Ss_Hl8ySgu5WgoVym9wnDeS9BGYcks5ck6_ZwA%3D%3D"
   },
   {
     "id": "4",
     "name": "Radio Mars",
     "propellant": "http://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/c.jpg?token=AiH6Sls0t4o9DAd2KWGdb7QRq5aGSkmgks5ck7AgwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/c.jpg?token=AiH6Sls0t4o9DAd2KWGdb7QRq5aGSkmgks5ck7AgwA%3D%3D"
   },
   {
     "id": "5",
     "name": "Izlanzik Radio",
     "propellant": "http://176.31.240.204:8000/sream/2/",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/i.jpg?token=AiH6StTGR8A1rNwRrFbSsksFyKA1qBssks5ck7CswA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/i.jpg?token=AiH6StTGR8A1rNwRrFbSsksFyKA1qBssks5ck7CswA%3D%3D"
   },
   {
     "id": "6",
     "name": "Hit Radio",
     "propellant": "http://icepe10.infomaniak.ch/hitradio-maroc-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/g.jpg?token=AiH6SlZH4--B5pO8u7tDwYFPyowKfKpQks5ck7D5wA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/g.jpg?token=AiH6SlZH4--B5pO8u7tDwYFPyowKfKpQks5ck7D5wA%3D%3D"
   },
   {
     "id": "7",
     "name": "Izlan Radio",
     "propellant": "http://philae.shoutca.st:8370/stream/1/",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/d.png?token=AiH6SrBUWMc2eEKabuY4flv87h-2UfBIks5ck7FmwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/d.png?token=AiH6SrBUWMc2eEKabuY4flv87h-2UfBIks5ck7FmwA%3D%3D"
   },
   {
     "id": "8",
     "name": "Med Radio",
     "propellant": "http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/e.png?token=AiH6SjO3D9ejYCNb0E0_tHcSt2a_pjbpks5ck7G0wA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/e.png?token=AiH6SjO3D9ejYCNb0E0_tHcSt2a_pjbpks5ck7G0wA%3D%3D"
   },
   {
     "id": "9",
     "name": "Medi 1",
     "propellant": "http://streaming08.mit.ovea.com/medi1",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/f.png?token=AiH6Srq0ymG9Ug19yK49B5lRrg6BXrwaks5ck7IiwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/f.png?token=AiH6Srq0ymG9Ug19yK49B5lRrg6BXrwaks5ck7IiwA%3D%3D"
   },
   {
     "id": "10",
     "name": "the Moroccan Radio",
     "propellant": "http://streaming.radionomy.com/TheMoroccanRadio",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/j.png?token=AiH6SgGz4di09BXDLSaSBrZIybpAyU4Cks5ck7JdwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/j.png?token=AiH6SgGz4di09BXDLSaSBrZIybpAyU4Cks5ck7JdwA%3D%3D"
   },
   {
     "id": "11",
     "name": "Radio Medina",
     "propellant": "http://icepe11.infomaniak.ch/medinafm-64.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/h.png?token=AiH6SgW5StQeVrUwn4CUIpjL2v2XSV03ks5ck7KtwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/h.png?token=AiH6SgW5StQeVrUwn4CUIpjL2v2XSV03ks5ck7KtwA%3D%3D"
   },
   {
     "id": "12",
     "name": "Anwa Rock",
     "propellant": "http://streaming.radionomy.com/Anwa-rock",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/k.png?token=AiH6SnDVl2e1UHZ5SZanDvwGqxjXhMgrks5ck7LqwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/k.png?token=AiH6SnDVl2e1UHZ5SZanDvwGqxjXhMgrks5ck7LqwA%3D%3D"
   },
   {
     "id": "13",
     "name": "Chada fm",
     "propellant": "http://icepe10.infomaniak.ch/chadafm-high.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/ca.png?token=AiH6SljEDizOc7YZrAhkJrsqcIDv_yFaks5ck7M1wA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/ca.png?token=AiH6SljEDizOc7YZrAhkJrsqcIDv_yFaks5ck7M1wA%3D%3D"
   },
   {
     "id": "14",
     "name": "Radio Plus Agadir",
     "propellant": "http://radioplusmaoc.ice.infomaniak.ch/radioplusagadir-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/l.png?token=AiH6Sul0DvOI7-UZkwBnsq6m7TM75DVmks5ck7OowA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/l.png?token=AiH6Sul0DvOI7-UZkwBnsq6m7TM75DVmks5ck7OowA%3D%3D"
   },
   {
     "id": "15",
     "name": "Radio Plus Casablanca",
     "propellant": "http://radioplusmaoc.ice.infomaniak.ch/radiopluscasablanca-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/m.png?token=AiH6SqhMUW2HZiTsf2R1RwTOYl-mH1Bxks5ck7PFwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/m.png?token=AiH6SqhMUW2HZiTsf2R1RwTOYl-mH1Bxks5ck7PFwA%3D%3D"
   },
   {
     "id": "16",
     "name": "Radio Plus Marrakech",
     "propellant": "http://radioplusmaoc.ice.infomaniak.ch/radioplusmarrakech-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/n.png?token=AiH6SgotFzf5WchtheNIf89mcdRHp4CHks5ck7PnwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/n.png?token=AiH6SgotFzf5WchtheNIf89mcdRHp4CHks5ck7PnwA%3D%3D"
   },
   {
     "id": "17",
     "name": "Radio Sawte Ouarzazate",
     "propellant": "http://www.quran-radio.org:8002/stream/1/",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/o.png?token=AiH6SlDnKjec_YzgIemjhkOrdFL2qgPSks5ck7RGwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/o.png?token=AiH6SlDnKjec_YzgIemjhkOrdFL2qgPSks5ck7RGwA%3D%3D"
   },
   {
     "id": "18",
     "name": "Radio Maroc Music",
     "propellant": "http://streaming.radionomy.com/MarocMusic",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/pa.png?token=AiH6SlL8ub29uIaB6bAC-pbueSwoeQaCks5ck7RhwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/pa.png?token=AiH6SlL8ub29uIaB6bAC-pbueSwoeQaCks5ck7RhwA%3D%3D"
   },
   {
     "id": "19",
     "name": "Radio Itma",
     "propellant": "http://streaming.radionomy.com/radio-itma?lang=fr-FR%2cfr%3bq%3d0.9%2cen-US%3bq%3d0.8%2cen%3bq%3d0.7",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/q.png?token=AiH6SnqB5iADG2h9OAaVBvOxO5VQTimQks5ck7R5wA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/q.png?token=AiH6SnqB5iADG2h9OAaVBvOxO5VQTimQks5ck7R5wA%3D%3D"
   },
   {
     "id": "20",
     "name": "Ness Radio",
     "propellant": "http://radio.nessradio.net:8000/nessradio.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/ya.png?token=AiH6Sheii9gxEhMaSFQcwUj4EO3iKulUks5ck7ftwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/ya.png?token=AiH6Sheii9gxEhMaSFQcwUj4EO3iKulUks5ck7ftwA%3D%3D"
   },
   {
     "id": "21",
     "name": "Monte Carlo",
     "propellant": "http://live02.mc-doualiya.com/mc-doualiya.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/op.png?token=AiH6SqpMAxmtYDe9Gp_EfuFH9yG2Vu8-ks5ck7gKwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/op.png?token=AiH6SqpMAxmtYDe9Gp_EfuFH9yG2Vu8-ks5ck7gKwA%3D%3D"
   },
   {
     "id": "22",
     "name": "Radio Only Rai",
     "propellant": "http://broadcast.infomaniak.net/onlyrai-high",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/r.png?token=AiH6SmI1HQqB_g4OTueffW6spoEWigZpks5ck7gmwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/r.png?token=AiH6SmI1HQqB_g4OTueffW6spoEWigZpks5ck7gmwA%3D%3D"
   },
   {
     "id": "23",
     "name": "Hit Radio Gold",
     "propellant": "http://gold.ice.infomaniak.ch/gold-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/s.png?token=AiH6StEAyNujK4N0NMnSBgqQP0rv3bsOks5ck7iPwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/s.png?token=AiH6StEAyNujK4N0NMnSBgqQP0rv3bsOks5ck7iPwA%3D%3D"
   },
   {
     "id": "24",
     "name": "Mfm Radio",
     "propellant": "http://newpub-stream01.itols.com:9001/casa.ogg",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/t.png?token=AiH6Sipft9HjWt86Kf2cqgTcJfEB1YKkks5ck7inwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/t.png?token=AiH6Sipft9HjWt86Kf2cqgTcJfEB1YKkks5ck7inwA%3D%3D"
   },
   {
     "id": "25",
     "name": "Atlantic Radio",
     "propellant": "http://68.168.117.130:8000/stream/1/",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/u.png?token=AiH6SgJU6VFenNgyfuR6_5Jc_rTCSSjiks5ck7i8wA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/u.png?token=AiH6SgJU6VFenNgyfuR6_5Jc_rTCSSjiks5ck7i8wA%3D%3D"
   },
   {
     "id": "26",
     "name": "Radio Aswat",
     "propellant": "http://broadcast.ice.infomaniak.ch/aswat-high.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/v.jpg?token=AiH6SokFwoCuSH6NDv_c5-5tunm47bcnks5ck7kpwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/v.jpg?token=AiH6SokFwoCuSH6NDv_c5-5tunm47bcnks5ck7kpwA%3D%3D"
   },
   {
     "id": "27",
     "name": "i-like Radio",
     "propellant": "http://78.129.224.13/records/radiouser1600971/record.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/w.jpeg?token=AiH6Sk4k12Lkh9goutjKyWNb4d0uwWoRks5ck7lEwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/w.jpeg?token=AiH6Sk4k12Lkh9goutjKyWNb4d0uwWoRks5ck7lEwA%3D%3D"
   },
   {
     "id": "28",
     "name": "Radio chabab maroc",
     "propellant": "http://streaming.radionomy.com/RadioRTM",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/y.jpg?token=AiH6SlGPrS9pAlhz6wJGaQoaQ8n9D3fPks5ck7lkwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/y.jpg?token=AiH6SlGPrS9pAlhz6wJGaQoaQ8n9D3fPks5ck7lkwA%3D%3D"
   },
   {
     "id": "29",
     "name": "Orient Radio",
     "propellant": "http://stream3.broadcast-associes.com:8405/Radio-Orient",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/z.png?token=AiH6SmgJ3i6RlSOxn7-2X4-_3BTezsJhks5ck7m-wA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/z.png?token=AiH6SmgJ3i6RlSOxn7-2X4-_3BTezsJhks5ck7m-wA%3D%3D"
   },
   {
     "id": "30",
     "name": "Radio Soleil",
     "propellant": "http://streaming101.radionomy.com/RadionoMiX",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/ab.png?token=AiH6SuYVyvY2slHCtJPuUJirCsuPvdCqks5ck7qPwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/ab.png?token=AiH6SuYVyvY2slHCtJPuUJirCsuPvdCqks5ck7qPwA%3D%3D"
   },
   {
     "id": "31",
     "name": "Hit Radio Mgharba",
     "propellant": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/ac.png?token=AiH6Shu9T74-QNdXQJ_jldDFpf8Ypve8ks5ck7quwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/ac.png?token=AiH6Shu9T74-QNdXQJ_jldDFpf8Ypve8ks5ck7quwA%3D%3D"
   },
   {
     "id": "32",
     "name": "Hit Radio Rock",
     "propellant": "http://rockmetal.ice.infomaniak.ch/rockmetal-128.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/Radio_atlas_maroc/master/ad.png?token=AiH6SncsR-VvtXBGa-9hjEUnwa5rccEnks5ck7rNwA%3D%3D"
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/ad.png?token=AiH6SncsR-VvtXBGa-9hjEUnwa5rccEnks5ck7rNwA%3D%3D"
   }
   
 ]
