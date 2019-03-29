@@ -86,13 +86,13 @@
   {
     "id": "15",
     "name": "Radio Plus Casablanca",
-    "propellant": "http://radioplusmaoc.ice.infomaniak.ch/radiopluscasablanca-128.mp3",
+    "propellant": "http://rpc.ice.infomaniak.ch/rpc-casa.mp3",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/m.png?token=AiH6SqhMUW2HZiTsf2R1RwTOYl-mH1Bxks5ck7PFwA%3D%3D"
   },
   {
     "id": "16",
     "name": "Radio Plus Marrakech",
-    "propellant": "http://radioplusmaoc.ice.infomaniak.ch/radioplusmarrakech-128.mp3",
+    "propellant": "http://rpc.ice.infomaniak.ch/rpc-kesh.mp3",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/n.png?token=AiH6SgotFzf5WchtheNIf89mcdRHp4CHks5ck7PnwA%3D%3D"
   },
   {
