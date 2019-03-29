@@ -31,9 +31,9 @@
   },
   {
     "id": "6",
-    "name": "Radio Atbir",
-    "propellant": "http://ample-zeno-19.radiojar.com/bqdbb6hd0neuv?rj-ttl=5&rj-token=AAABacqRtkfcbrJkDILvkvItxXLeImCpKUWrsRQZPERHCAg4Me0zcg",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/atbir.png"
+    "name": "Hit Radio ",
+    "propellant": "http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/g.jpg"
   },
   {
     "id": "7",
@@ -157,9 +157,9 @@
   },
   {
     "id": "27",
-    "name": "i-like Radio",
-    "propellant": "http://78.129.224.13/records/radiouser1600971/record.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/w.jpeg?token=AiH6Sk4k12Lkh9goutjKyWNb4d0uwWoRks5ck7lEwA%3D%3D"
+    "name": "Radio Atbir",
+    "propellant": "http://ample-zeno-19.radiojar.com/bqdbb6hd0neuv?rj-ttl=5&rj-token=AAABacqRtkfcbrJkDILvkvItxXLeImCpKUWrsRQZPERHCAg4Me0zcg",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/atbir.png"
   },
   {
     "id": "28",
