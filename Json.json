@@ -38,7 +38,7 @@
   {
     "id": "7",
     "name": "Izlan Radio",
-    "propellant": "http://philae.shoutca.st:8370/stream/1/",
+    "propellant": "http://185.52.127.157/ma/55820/mp3_128.mp3",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/d.png?token=AiH6SrBUWMc2eEKabuY4flv87h-2UfBIks5ck7FmwA%3D%3D"
   },
   {
@@ -124,12 +124,6 @@
     "name": "Monte Carlo",
     "propellant": "http://live02.mc-doualiya.com/mc-doualiya.mp3",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/op.png?token=AiH6SqpMAxmtYDe9Gp_EfuFH9yG2Vu8-ks5ck7gKwA%3D%3D"
-  },
-  {
-    "id": "22",
-    "name": "Radio Only Rai",
-    "propellant": "http://broadcast.infomaniak.net/onlyrai-high",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/r.png?token=AiH6SmI1HQqB_g4OTueffW6spoEWigZpks5ck7gmwA%3D%3D"
   },
   {
     "id": "23",
