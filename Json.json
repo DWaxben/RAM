@@ -178,6 +178,12 @@
     "name": "Hit Radio Mgharba",
     "propellant": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/ac.png?token=AiH6Shu9T74-QNdXQJ_jldDFpf8Ypve8ks5ck7quwA%3D%3D"
+  },
+  {
+    "id": "32",
+    "name": "Hit Radio Rock",
+    "propellant": "http://rockmetal.ice.infomaniak.ch/rockmetal-128.mp3",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/ad.png?token=AiH6SncsR-VvtXBGa-9hjEUnwa5rccEnks5ck7rNwA%3D%3D"
   }
   
 ]
