@@ -56,7 +56,7 @@
   {
     "id": "10",
     "name": "the Moroccan Radio",
-    "propellant": "http://streaming.radionomy.com/TheMoroccanRadio",
+    "propellant": "https://streamingv2.shoutcast.com/TheMoroccanRadio",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/j.png?token=AiH6SgGz4di09BXDLSaSBrZIybpAyU4Cks5ck7JdwA%3D%3D"
   },
   {
@@ -88,12 +88,6 @@
     "name": "Radio Plus Casablanca",
     "propellant": "http://rpc.ice.infomaniak.ch/rpc-casa.mp3",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/m.png?token=AiH6SqhMUW2HZiTsf2R1RwTOYl-mH1Bxks5ck7PFwA%3D%3D"
-  },
-  {
-    "id": "16",
-    "name": "Radio Plus Marrakech",
-    "propellant": "http://rpc.ice.infomaniak.ch/rpc-kesh.mp3",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/n.png?token=AiH6SgotFzf5WchtheNIf89mcdRHp4CHks5ck7PnwA%3D%3D"
   },
   {
     "id": "17",
