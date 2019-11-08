@@ -8,7 +8,7 @@
   {
     "id": "2",
     "name": "Radio Coran",
-    "propellant": "http://stream4.coran.tk:8005/stream/1/",
+    "propellant": "http://92.222.103.13:8005/stream/1/",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/radiocoran.png"
   },
   {
