@@ -72,12 +72,6 @@
       "imageurl":"https://cdn.webrad.io/images/logos/radio-co-ma/cap.png"
    },
    {
-      "id":13,
-      "name":"Radio Habayiib",
-      "propellant":"http://h2047006.stratoserver.net:8000/;",
-      "imageurl":"https://cdn.webrad.io/images/logos/radio-co-ma/habayiib.png"
-   },
-   {
       "id":14,
       "name":"Ness Radio",
       "propellant":"http://radio.nessradio.net:8000/nessradio.mp3",
@@ -106,18 +100,6 @@
       "name":"Radio Anwarock",
       "propellant":"https://streamingv2.shoutcast.com/Anwa-rock",
       "imageurl":"https://cdn.webrad.io/images/logos/radio-co-ma/anwarock.png"
-   },
-   {
-      "id":21,
-      "name":"Hit Radio Cover",
-      "propellant":"https://cover2.ice.infomaniak.ch/cover2-128.mp3",
-      "imageurl":"https://cdn.webrad.io/images/logos/radio-co-ma/cover.png"
-   },
-   {
-      "id":22,
-      "name":"Hit Radio Buzz",
-      "propellant":"https://buzz.ice.infomaniak.ch/buzz-128.mp3",
-      "imageurl":"https://cdn.webrad.io/images/logos/radio-co-ma/hit-buzz.png"
    },
    {
       "id":23,
@@ -172,12 +154,6 @@
       "name":"Aswat",
       "propellant":"https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
       "imageurl":"https://cdn.webrad.io/images/logos/radio-co-ma/aswat.png"
-   },
-   {
-      "id":32,
-      "name":"Radio Only Raï",
-      "propellant":"http://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
-      "imageurl":"https://cdn.webrad.io/images/logos/radio-co-ma/only-rai.png"
    },
    {
       "id":33,
